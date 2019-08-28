@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.test.issue.seventy.two
+---
+testFramework: spock
+sourceLanguage: java
