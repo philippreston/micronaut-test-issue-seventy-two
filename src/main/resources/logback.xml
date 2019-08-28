@@ -9,6 +9,8 @@
         </encoder>
     </appender>
 
+    <logger name="micronaut.test.issue.seventy.two" level="DEBUG"/>
+
     <root level="info">
         <appender-ref ref="STDOUT" />
     </root>
